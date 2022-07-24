@@ -1,0 +1,2 @@
+"format.number","format.date.shortdate","format.date.mediumdate","format.date.datetime","format.date.datetimeWithSeconds","format.date.minutes","format.date.seconds"
+"# ###.##","MM/dd","MM/dd/YYYY","MM/DD/YYYY h:mm A","MM/DD/YYYY h:mm:ss A","min","sec"

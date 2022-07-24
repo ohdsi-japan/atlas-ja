@@ -1,0 +1,2 @@
+"commonErrors.noSources","commonErrors.webapiConnectError","commonErrors.browserWarning","commonErrors.initFailed"
+"The current WebAPI has no sources defined.<br/>Please add one or more on <a href=""#/configure"">configuration</a> page.","Unable to connect to an instance of the WebAPI.<br/>Please contact your administrator to resolve this issue.","Note that only Chrome browser newer than v.63 is officially supported","Application initialization failed"
