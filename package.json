@@ -5,6 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "standard --fix scripts/*.js",
     "build": "node scripts/build.js"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/ohdsi-japan/atlas-ja#readme",
   "devDependencies": {
-    "json2csv": "^5.0.7"
+    "json2csv": "^5.0.7",
+    "standard": "^17.0.0"
   }
 }
